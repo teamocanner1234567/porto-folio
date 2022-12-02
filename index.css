@@ -3,3 +3,14 @@ html,body {
     padding: 0;
 }
 
+.logo-img {
+	width: 35px;
+	height: 35px;
+	margin-left: 10px;
+}
+  
+.logo-title {
+    justify-content: center;
+    text-align: center;
+    
+}
